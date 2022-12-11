@@ -1,6 +1,5 @@
 # LineFollower
 <br />
-lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
 <br />
 <br />
 [picture]
@@ -9,19 +8,19 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 <br />
-microcontroller:
+microcontroller: Arduino Mega 2560
 <br />
-motors: 
+motors: Hyuduo 6VDC-600 RPM
 <br />
-h-bridge:
+h-bridge: DRV8833
 <br />
-sensors:
+sensors: QTR8-A
 <br />
-batteries:
+batteries: 2x Samsung INR18650-35E
 <br />
-wireless communication:
+wireless communication: HC-05
 <br />
-distance sensor - motors:
+distance sensor - motors: 
 <br />
 weight:
 <br />
