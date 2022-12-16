@@ -42,7 +42,7 @@ calibrate white:
 We leren de lijnvolger wat het kleur "wit" is.
 
 ### kalibratie
-uitleg kalibratie  
+Met de commandos "calibrate black" en "calibrate white" leren we de lijnvolger het verschil kennen tussen zwart en wit. Als de lijnvolger dan de lijn moet volgen, zal hij onmiddelijk zien door de zwarte kleur waar de lijn is.
 
 ### settings
 De robot rijdt stabiel met volgende parameters:  
