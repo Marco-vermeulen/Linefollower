@@ -1,14 +1,14 @@
 # Gebruiksaanwijzing
 
 ### opladen / vervangen batterijen
-uitleg over het opladen of vervangen van de batterijen
+
 
 ### draadloze communicatie
 #### verbinding maken
-uitleg over het verbinden van de robot met laptop / smartphone
+Start de lijvolger op door de schakelaar te bedienen, u zult dan een rood lichte rap zien pinken op de bluetooth module. Open op uw smartphone een bluetooth serial monitor app en verbind met de bluetooth module. De lijnvolger en uw smartphone zijn verbonden met elkaar als het lampje op de bluetooth module 2x pinkt met een zeer lang interval ertussen, en op uw smartphone zal er de boodschap opkomen "connected". Voor de verbinding te breken, is de schakelaar afzetten ruim voldoende om alles te ontkoppelen.
 
 #### commando's
-debug [on/off]  
+debug [on/off]: 
 start  
 stop  
 set cycle [µs]  
