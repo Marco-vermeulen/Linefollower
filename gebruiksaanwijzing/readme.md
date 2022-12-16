@@ -1,11 +1,11 @@
 # Gebruiksaanwijzing
 
 ### opladen / vervangen batterijen
-
+De batterijen steekt u in de bijhorende batterijhouders met de juiste polariteiten. Als de batterij(en) minder dan 3V hebben, moeten ze opgeladen worden in de bijhorende oplader. Als u de batterijen te ver ontlaadt, moeten ze vervangen worden.
 
 ### draadloze communicatie
 #### verbinding maken
-Start de lijvolger op door de schakelaar te bedienen, u zult dan een rood lichte rap zien pinken op de bluetooth module. Open op uw smartphone een bluetooth serial monitor app en verbind met de bluetooth module. De lijnvolger en uw smartphone zijn verbonden met elkaar als het lampje op de bluetooth module 2x pinkt met een zeer lang interval ertussen, en op uw smartphone zal er de boodschap opkomen "connected". Voor de verbinding te breken, is de schakelaar afzetten ruim voldoende om alles te ontkoppelen.
+
 
 #### commando's
 debug [on/off]: 
