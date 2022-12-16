@@ -5,7 +5,7 @@ De batterijen steekt u in de bijhorende batterijhouders met de juiste polariteit
 
 ### draadloze communicatie
 #### verbinding maken
-
+Als u de aan/uit schakelaar bedient, zal u de lijnvolger aanzetten (ook de bluetooth module, herkenbaar met een snel pinklicht). Als u dan met een seriële bluetooth monitor app op uw gsm verbind met de bluetooth module, zal er de boodschap opkomen "connected" in de terminal en zal het lichtje zeer traag pinken met een groot interval
 
 #### commando's
 debug [on/off]: 
