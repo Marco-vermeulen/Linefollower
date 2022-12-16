@@ -54,4 +54,4 @@ kd 0.55,
 diff 0.05
 
 ### start/stop button
-uitleg locatie + werking start/stop button
+de start/stop knop bevindt zich naast de aan/uit schakelaar. Als de lijnvolger stil staat en u drukt de 1e keer op de knop, zal de lijnvolger starten met rijden. Duwt u de 2e keer op de knop, zal de lijnvolger stoppen.
