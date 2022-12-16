@@ -46,11 +46,11 @@ Met de commandos "calibrate black" en "calibrate white" leren we de lijnvolger h
 
 ### settings
 De robot rijdt stabiel met volgende parameters: 
-cycle time 10
-power 120
-kp 17
-ki 0.20
-kd 0.55
+cycle time 10,
+power 120,
+kp 17,
+ki 0.20,
+kd 0.55,
 diff 0.05
 
 ### start/stop button
