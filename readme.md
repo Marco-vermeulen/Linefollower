@@ -1,7 +1,7 @@
 # LineFollower
 <br />
 <br />
-![319099130_724244142633517_6292608305594360611_n](https://user-images.githubusercontent.com/115167105/206911258-b8d8cbf3-3235-45f1-b19b-08dc7d990e09.jpg)
+[image](https://user-images.githubusercontent.com/115167105/208161985-66a62015-a1b9-4a16-8751-3cd92b4f2e4c.png)
 <br />
 <br />
   
