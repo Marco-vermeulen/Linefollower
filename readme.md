@@ -19,9 +19,9 @@ batteries: 2x Samsung INR18650-35E
 <br />
 wireless communication: HC-05
 <br />
-distance sensor - motors: 
+distance sensor - motors: 10,8 cm
 <br />
-weight:
+weight: 302 g
 <br />
-speed: 
+speed: 0,399 m/s
 <br />
