@@ -45,7 +45,13 @@ We leren de lijnvolger wat het kleur "wit" is.
 Met de commandos "calibrate black" en "calibrate white" leren we de lijnvolger het verschil kennen tussen zwart en wit. Als de lijnvolger dan de lijn moet volgen, zal hij onmiddelijk zien door de zwarte kleur waar de lijn is.
 
 ### settings
-De robot rijdt stabiel met volgende parameters:  
+De robot rijdt stabiel met volgende parameters: 
+cycle time 10
+power 120
+kp 17
+ki 0.20
+kd 0.55
+diff 0.05
 
 ### start/stop button
 uitleg locatie + werking start/stop button
